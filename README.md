@@ -35,6 +35,10 @@
 🥤 [BuyMeaCoffee](https://www.buymeacoffee.com/DevOpsPink)\
 🍪 [Ko-fi](https://ko-fi.com/DevOpsPink)
 
+## My Digital Badges
+
+<a href="https://app.daily.dev/devopspink"><img src="https://api.daily.dev/devcards/v2/wE99MesO20lw9Ax54RJop.png?type=wide&r=24q" width="652" alt="Tatiana Mikhaleva's Dev Card"/></a>
+
 <div align="center">
 
 ![octocat](https://user-images.githubusercontent.com/10498744/210113490-e2fad07f-4488-4da8-a656-b9abbdd8cb26.gif)
