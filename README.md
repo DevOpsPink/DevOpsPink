@@ -1,14 +1,14 @@
-👋 I’m Tatiana Mikhaleva, but you can call me Tanya—the cloud-obsessed mind behind DevOps.Pink. If there’s one thing I love, it’s breaking down complex tech into something fun, practical, and impossible to forget.
+👋 I’m Tatiana Mikhaleva, but you can call me Tanya—the cloud-obsessed mind behind [DevOps.Pink](https://www.devops.pink/). If there’s one thing I love, it’s breaking down complex tech into something fun, practical, and impossible to forget.
 
 💾 What do I do? I design and automate cloud infrastructure like a boss. My playground? AWS, Azure, Kubernetes, Docker, and Terraform. I build scalable, high-performance systems, craft seamless CI/CD pipelines, and make sure deployments run faster than your morning coffee kicks in.
 
-💖 What’s my vibe? I don’t do boring. DevOps is exciting, and I write about it with the same energy. My blog is packed with hands-on guides, deep tech dives, and real-world lessons, all with a sprinkle of attitude and humor. If you want dry, corporate jargon, look elsewhere—I’m here to make DevOps fun, powerful, and actually useful.
+💖 What’s my vibe? I don’t do boring. DevOps is exciting, and I write about it with the same energy. [My blog](https://www.devops.pink/) is packed with hands-on guides, deep tech dives, and real-world lessons, all with a sprinkle of attitude and humor. If you want dry, corporate jargon, look elsewhere—I’m here to make DevOps fun, powerful, and actually useful.
 
 🐳 My specialties? Containers, cloud automation, and making infrastructure behave. Whether it’s optimizing Kubernetes clusters, debugging deployment nightmares, or squeezing the most out of cloud resources, I live for solving the toughest DevOps puzzles.
 
 ⚡ My mission? To help engineers automate smarter, build better, and stop wasting time on nonsense. If you're tired of overcomplicated cloud setups and DevOps gatekeeping, stick with me—I’ll show you how to own your cloud game like a pro.
 
-⛅ Let’s connect, break things (responsibly), and push DevOps to new heights. See you in the cloud!
+⛅ Let’s connect, break things (responsibly), and push DevOps to new heights. [See you in the cloud](https://discord.gg/3q2999RSux)!
 
 ## Follow Me
 
