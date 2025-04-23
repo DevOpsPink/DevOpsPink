@@ -18,7 +18,7 @@
 🐘 [Mastodon](https://mastodon.social/@DevOpsPink)\
 🧵 [Threads](https://www.threads.net/@DevOpsPink)\
 🎸 [Facebook](https://www.facebook.com/DevOpsPink/)\
-🧊 [Bluesky](https://bsky.app/profile/DevOpsPink.bsky.social)\
+🧊 [Bluesky](https://bsky.app/profile/devops.pink)\
 🎥 [TikTok](https://www.tiktok.com/@DevOpsPink)\
 💻 [LinkedIn](https://www.linkedin.com/in/DevOpsPink/)\
 🐈 [GitHub](https://github.com/DevOpsPink)
