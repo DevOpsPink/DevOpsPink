@@ -1,14 +1,12 @@
-👋 I’m Tatiana Mikhaleva, but you can call me Tanya—the cloud-obsessed mind behind [DevOps.Pink](https://www.devops.pink/). If there’s one thing I love, it’s breaking down complex tech into something fun, practical, and impossible to forget.
+👋 I’m **Tatiana Mikhaleva**, a **Docker Captain**, DevOps engineer, and founder of [DevOps.Pink](https://www.devops.pink) — where infrastructure meets clarity, community, and a little rebellion.
 
-💾 What do I do? I design and automate cloud infrastructure like a boss. My playground? AWS, Azure, Kubernetes, Docker, and Terraform. I build scalable, high-performance systems, craft seamless CI/CD pipelines, and make sure deployments run faster than your morning coffee kicks in.
+💾 I architect cloud solutions using **AWS**, **Azure**, **Terraform**, **Kubernetes**, and (of course) **Docker**. My thing? Building clean, scalable, automated systems that just work — and helping others do the same.
 
-💖 What’s my vibe? I don’t do boring. DevOps is exciting, and I write about it with the same energy. [My blog](https://www.devops.pink/) is packed with hands-on guides, deep tech dives, and real-world lessons, all with a sprinkle of attitude and humor. If you want dry, corporate jargon, look elsewhere—I’m here to make DevOps fun, powerful, and actually useful.
+💡 I write in-depth, beginner-friendly tech guides that don’t bore you to sleep. My blog is a space for engineers who want real-world DevOps without the gatekeeping — especially **newcomers**, and especially **women in tech** who deserve better tools, more support, and fewer barriers.
 
-🐳 My specialties? Containers, cloud automation, and making infrastructure behave. Whether it’s optimizing Kubernetes clusters, debugging deployment nightmares, or squeezing the most out of cloud resources, I live for solving the toughest DevOps puzzles.
+🐳 Becoming a **Docker Captain** isn’t just a badge — it’s recognition of my mission: making DevOps not just understandable, but empowering. I believe anyone can master cloud and containers with the right guidance — and I’m here to provide it.
 
-⚡ My mission? To help engineers automate smarter, build better, and stop wasting time on nonsense. If you're tired of overcomplicated cloud setups and DevOps gatekeeping, stick with me—I’ll show you how to own your cloud game like a pro.
-
-⛅ Let’s connect, break things (responsibly), and push DevOps to new heights. [See you in the cloud](https://discord.gg/3q2999RSux)!
+💖 I don’t just teach DevOps — I make people *want* to do it. I bring clarity to chaos, automate the boring stuff, and make tech a little more human. And if that means shaking up the status quo? Even better.
 
 ## Follow Me
 
