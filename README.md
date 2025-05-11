@@ -37,6 +37,10 @@
 
 <a href="https://app.daily.dev/devopspink"><img src="https://api.daily.dev/devcards/v2/wE99MesO20lw9Ax54RJop.png?type=wide&r=24q" width="652" alt="Tatiana Mikhaleva's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/6489ecf8-561c-4f48-917b-287cbe113187" title="Intermediate Kubernetes Operators">
+    <img src="https://images.credly.com/size/680x680/images/49173e9c-a2ac-4c0f-aae9-e36fd1994413/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Intermediate Kubernetes Operators">
+</a>
+
 <a href="https://www.credly.com/badges/51a133b5-c098-46de-9fe0-4309ccbfc6b7" title="Build Your Own Chatbot - Level 1">
     <img src="https://images.credly.com/size/680x680/images/745b7433-8c95-4978-87ed-a5b280fcb1aa/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Build Your Own Chatbot - Level 1">
 </a>
