@@ -37,6 +37,10 @@
 
 <a href="https://app.daily.dev/devopspink"><img src="https://api.daily.dev/devcards/v2/wE99MesO20lw9Ax54RJop.png?type=wide&r=24q" width="652" alt="Tatiana Mikhaleva's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/499cbb7c-06f4-4e40-946c-1d84219cf76d" title="Advanced Kubernetes Operators">
+    <img src="https://images.credly.com/size/680x680/images/711b1833-527f-44c1-bece-67c570e480b9/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Advanced Kubernetes Operators">
+</a>
+
 <a href="https://www.credly.com/earner/earned/badge/6489ecf8-561c-4f48-917b-287cbe113187" title="Intermediate Kubernetes Operators">
     <img src="https://images.credly.com/size/680x680/images/49173e9c-a2ac-4c0f-aae9-e36fd1994413/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Intermediate Kubernetes Operators">
 </a>
