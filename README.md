@@ -37,6 +37,10 @@
 
 <a href="https://app.daily.dev/devopspink"><img src="https://api.daily.dev/devcards/v2/wE99MesO20lw9Ax54RJop.png?type=wide&r=24q" width="652" alt="Tatiana Mikhaleva's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/fd7335c1-807b-44a8-a44b-1e0d62151408" title="Quantum-Safe Encryption Essentials">
+    <img src="https://images.credly.com/size/680x680/images/678bcf1d-7baf-4322-9301-3f88d71ef113/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Quantum-Safe Encryption Essentials">
+</a>
+
 <a href="https://www.credly.com/earner/earned/badge/499cbb7c-06f4-4e40-946c-1d84219cf76d" title="Advanced Kubernetes Operators">
     <img src="https://images.credly.com/size/680x680/images/711b1833-527f-44c1-bece-67c570e480b9/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Advanced Kubernetes Operators">
 </a>
