@@ -8,6 +8,16 @@
 
 💖 I don’t just teach DevOps — I make people *want* to do it. I bring clarity to chaos, automate the boring stuff, and make tech a little more human. And if that means shaking up the status quo? Even better.
 
+## Tools I Personally Trust
+
+If you want to make your digital life a little calmer — here are two tools I use every day:
+
+🛸 [Proton VPN](https://go.getproton.me/SH1dk) – A trusted VPN that secures your Wi-Fi, hides your IP, and blocks trackers. Even in that no-password café Wi-Fi, you're safe.
+
+🔑 [Proton Pass](https://go.getproton.me/SH1dj) – A password manager with on-device encryption. Passwords, logins, 2FA — always with you, and only for you.
+
+*These are partner links — you won’t pay a cent more, but you'll be supporting [DevOps.Pink](https://www.devops.pink). Thank you — it really means a lot 💖*
+
 ## Follow Me
 
 🎬 [YouTube](https://www.youtube.com/channel/UCACxfwW1C8KQY1c6nU98VVw?sub_confirmation=1)\
