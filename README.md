@@ -1,4 +1,4 @@
-👋 I’m **Tatiana Mikhaleva**, a **Docker Captain**, DevOps engineer, and founder of [DevOps.Pink](https://www.devops.pink) — where infrastructure meets clarity, community, and a little rebellion.
+👋 I’m **Tatiana Mikhaleva**, a [Docker Captain](https://www.docker.com/captains/tatiana-mikhaleva/), DevOps engineer, and founder of [DevOps.Pink](https://www.devops.pink) — where infrastructure meets clarity, community, and a little rebellion.
 
 💾 I architect cloud solutions using **AWS**, **Azure**, **Terraform**, **Kubernetes**, and (of course) **Docker**. My thing? Building clean, scalable, automated systems that just work — and helping others do the same.
 
@@ -7,6 +7,12 @@
 🐳 Becoming a **Docker Captain** isn’t just a badge — it’s recognition of my mission: making DevOps not just understandable, but empowering. I believe anyone can master cloud and containers with the right guidance — and I’m here to provide it.
 
 💖 I don’t just teach DevOps — I make people *want* to do it. I bring clarity to chaos, automate the boring stuff, and make tech a little more human. And if that means shaking up the status quo? Even better.
+
+## Featured by Docker on Their Official YouTube Channel
+
+Some of my developer shorts were picked up and published on Docker’s **official YouTube channel** — sharing real-world tips with thousands of devs.
+
+🐳 [My Dockerfile Was a Mess Until This](https://youtube.com/shorts/XdS8yRVDFOA) – A quick win with multi-stage builds that made my images faster and cleaner.
 
 ## Tools I Personally Trust
 
