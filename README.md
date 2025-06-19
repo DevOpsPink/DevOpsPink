@@ -51,7 +51,7 @@ If you want to make your digital life a little calmer — here are two tools I u
 
 ## My Digital Badges
 
-<a href="https://app.daily.dev/devopspink"><img src="https://api.daily.dev/devcards/v2/wE99MesO20lw9Ax54RJop.png?type=wide&r=24q" width="652" alt="Tatiana Mikhaleva's Dev Card"/></a>
+<a href="https://app.daily.dev/devopspink"><img src="https://api.daily.dev/devcards/v2/wE99MesO20lw9Ax54RJop.png?type=wide&r=24q" width="620" alt="Tatiana Mikhaleva's Dev Card"/></a>
 
 <a href="https://www.credly.com/badges/f22d3915-a986-4a17-9426-668e58b0fe49" title="AWS Knowledge: Amazon EKS">
     <img src="https://images.credly.com/size/680x680/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Amazon EKS">
