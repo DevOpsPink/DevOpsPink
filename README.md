@@ -1,4 +1,4 @@
-👋 I’m **Tatiana Mikhaleva**, a [Docker Captain](https://www.docker.com/captains/tatiana-mikhaleva/), DevOps engineer, and founder of [DevOps.Pink](https://www.devops.pink) — where infrastructure meets clarity, community, and a little rebellion.
+👋 I’m **Tatiana Mikhaleva**, a [Docker Captain](https://www.docker.com/captains/tatiana-mikhaleva/), [Notion Ambassador](https://www.notion.so/notion/Notion-Ambassador-Program-45448f9b8e704c7bab254bd505c4717c), DevOps engineer, and founder of [DevOps.Pink](https://www.devops.pink) — where infrastructure meets clarity, community, and a little rebellion.
 
 💾 I architect cloud solutions using **AWS**, **Azure**, **Terraform**, **Kubernetes**, and (of course) **Docker**. My thing? Building clean, scalable, automated systems that just work — and helping others do the same.
 
