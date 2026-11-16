@@ -18,7 +18,7 @@ One of fewer than 250 Docker Captains worldwide. CNCF Ambassador. 8 vendor-recog
 
 Founder of DevOps.Pink — signal over noise in cloud-native & AI. 65K+ subscribers · 560K+ lifetime views · 160+ videos. Walkthroughs and demos on new Docker features as they ship, from Docker MCP (June 2025) to Docker Sandbox Kits (November 2026).
 
-🛠️ **Featured project:** [Oxy](https://github.com/heyvaldemar/oxy-llm-gateway), an open-source, self-hosted LLM gateway that Vladimir Mikhalev and I co-author and co-maintain: per-project budgets, DLP, a kill switch and an audit row for every request made with a valid key in front of OpenAI, Anthropic, Gemini and local models. My part is the developer experience.
+🛠️ **Featured project:** [Oxy](https://github.com/heyvaldemar/oxy-llm-gateway), an open-source, self-hosted LLM gateway that Vladimir Mikhalev and I co-author and co-maintain: per-project budgets, DLP, a kill switch and an audit row for every request made with a valid key in front of OpenAI, Anthropic, Gemini and local models. My part is the developer experience; in [v1.0.5](https://github.com/heyvaldemar/oxy-llm-gateway/releases/tag/v1.0.5) I authored the dashboard and deployment changes (#32–#35).
 
 ---
 
@@ -87,7 +87,7 @@ Specialist degree in Journalism (Master's equivalent, Bologna Process) from Murm
 
 *Oxy · Self-hosted LLM gateway*
 
-With Vladimir Mikhalev I co-author and co-maintain [Oxy](https://github.com/heyvaldemar/oxy-llm-gateway), an open-source, self-hosted LLM gateway that puts per-project budgets, DLP, a kill switch and an audit row for every request made with a valid key in front of OpenAI, Anthropic, Gemini and local models. My part is the developer experience: from `git clone` to a first working key with one `docker compose up`, the dashboard where a project owner sees spend and keys, and the documentation.
+With Vladimir Mikhalev I co-author and co-maintain [Oxy](https://github.com/heyvaldemar/oxy-llm-gateway), an open-source, self-hosted LLM gateway that puts per-project budgets, DLP, a kill switch and an audit row for every request made with a valid key in front of OpenAI, Anthropic, Gemini and local models. My part is the developer experience: from `git clone` to a first working key with one `docker compose up`, the dashboard where a project owner sees spend and keys, and the documentation. In [v1.0.5](https://github.com/heyvaldemar/oxy-llm-gateway/releases/tag/v1.0.5) I authored the dashboard and deployment changes (#32–#35), including the engine change that records when each API key was last used.
 
 DevRel typically means covering tools other people built; I also build the tools I teach with, starting with Oxy.
 
