@@ -58,6 +58,8 @@ Docker republished two of my shorts on its official YouTube channel. GitKraken f
 | :--- | :--- | :--- |
 | [**Docker Sandbox Kits Explained: The Dockerfile Moment for AI Agents**](https://www.youtube.com/watch?v=H_Pqd4AKm4I) | Nov 2026 | Packaging AI agents with Docker |
 | [**Run Claude Code, Codex & Copilot in Parallel Without the Chaos: GitKraken Kepler**](https://www.youtube.com/watch?v=1kIKHLUsG4Y) | Oct 2026 | Parallel AI coding agents |
+| [**Will AI Replace DevOps Engineers? (Squid Game Parody)**](https://www.youtube.com/watch?v=q9HWQstGw2M) | Oct 2026 | DevOps parody on tool churn and AI |
+| [**AI Agent Deleted a Production Database in Seconds: AI Agent Security on AWS**](https://www.youtube.com/watch?v=Tw3jK98AdW4) | Oct 2026 | AI agent security with the AWS Agentic AI Lens |
 | [**How to Secure AI Agents in Production (IBM × Anthropic Framework)**](https://www.youtube.com/watch?v=fGKTfOGute8) | Jun 2026 | Six-phase framework |
 | [**AI Agents Have Full Access to Your Machine: Here's the Fix**](https://www.youtube.com/watch?v=PVjuMgjr0CU) | Apr 2026 | Sandboxing agents |
 | [**Platform Engineering vs DevOps: Escape the YAML Prison**](https://www.youtube.com/watch?v=qU5kCpep8ls) | Mar 2026 | Platform engineering |
