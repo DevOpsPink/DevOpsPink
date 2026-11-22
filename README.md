@@ -32,7 +32,7 @@ Founder of DevOps.Pink — signal over noise in cloud-native & AI. 65K+ subscrib
 
 </div>
 
-Docker republished two of my shorts on its official YouTube channel. GitKraken featured me for International Women's Month (March 2026). Cypress interviewed me for its Ambassador Spotlight (July 2026). My Docker Captain profile: [docker.com/contributors/tatiana-mikhaleva](https://www.docker.com/contributors/tatiana-mikhaleva/).
+Docker republished two of my shorts on its official YouTube channel. GitKraken featured me for International Women's Month (March 2026). Cypress interviewed me for its Ambassador Spotlight (July 2026). The AWS Community Builders Spotlight made my video on the seven deadly sins of AI agents one of its two picks of the week (November 2026). My Docker Captain profile: [docker.com/contributors/tatiana-mikhaleva](https://www.docker.com/contributors/tatiana-mikhaleva/).
 
 ---
 
@@ -41,6 +41,7 @@ Docker republished two of my shorts on its official YouTube channel. GitKraken f
 *Selected publications, editorial bylines, and amplified releases*
 
 - **Platform Engineering:** [The Empathy Gap: Why Your Platform Needs UX, Not Just APIs](https://platformengineering.org/blog/the-empathy-gap-why-your-platform-needs-ux-not-just-apis) — authored byline (March 2026) that proposes a "joy" metric: an NPS-style score for Internal Developer Platform experience
+- **AWS Community Builders Spotlight:** [November 9th edition](https://builder.aws.com/content/3MIOjZTPMyTz3E41TD7OxdnQQlL/aws-community-builders-spotlight-november-9th-edition) — one of the two "AWSome Content of the week" picks, for my video [7 Deadly Sins of AI Agents](https://www.youtube.com/watch?v=8Q8MznholaA), a walk through the AWS Well-Architected Agentic AI Lens (November 2026)
 - **Featured by Cypress:** [Cypress Ambassador Spotlight](https://www.cypress.io/blog/cypress-ambassador-spotlight-tatiana-mikhaleva) — official ambassador interview (July 2026) on bridging Dev and QA, wiring Cypress into Docker and GitHub Actions pipelines, and mentoring underrepresented groups in tech
 - **GitKraken Editorial:** [Two Developers, Two Continents, One Philosophy](https://www.gitkraken.com/blog/two-developers-two-continents-one-philosophy-build-systems-that-work-for-you) — International Women's Month feature profile spotlighting DevOps.Pink and the cross-border editorial workflow behind it
 - **Docker Official Channels:** [From Chaos to Calm: Docker Compose Saved My Dev Environment](https://www.youtube.com/shorts/G3n3W_SB4fY) — DevOps.Pink short republished on Docker's official YouTube channel
