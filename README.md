@@ -121,11 +121,11 @@ Editorial voice built on opinion pieces, architectural post-mortems, and counter
 | Organization | Title | Domain |
 | :--- | :--- | :--- |
 | [**Docker**](https://www.docker.com/contributors/tatiana-mikhaleva/) | Captain | Container architecture, security, developer workflows |
-| [**CNCF**](https://www.cncf.io/people/ambassadors/) | Ambassador | Cloud-native ecosystem, Kubernetes, Helm, Prometheus |
+| [**CNCF**](https://www.credly.com/badges/b1e1a1c7-ab5d-4764-aeb1-439a12b86526/) | Ambassador | Cloud-native ecosystem, Kubernetes, Helm, Prometheus |
 | [**AWS**](https://builder.aws.com/community/@devopspink) | Community Builder | Cloud architecture, EKS, containers |
 | [**IBM**](https://www.credly.com/badges/9ac32634-feaa-4094-aa64-a3a0678d6bb0/) | Champion | Enterprise AI, Cloud, Automation |
 | [**Platform Engineering**](https://platformengineering.org/ambassador-program) | Ambassador | Internal Developer Platforms |
-| [**Cypress**](https://www.cypress.io/ambassadors) | Ambassador | Test automation, AI agents in testing |
+| [**Cypress**](https://www.cypress.io/blog/cypress-ambassador-spotlight-tatiana-mikhaleva) | Ambassador | Test automation, AI agents in testing |
 | [**GitKraken**](https://www.gitkraken.com/meet-the-gitkraken-ambassadors) | Ambassador | Git workflows, version control |
 | **Notion** | Ambassador | Engineering knowledge management |
 
