@@ -14,7 +14,7 @@ Docker Captain · CNCF Ambassador · AWS Community Builder · IBM Champion
 
 Journalist by training, Developer Advocate by practice. Independent Developer Advocate since July 2023. DevOps.Pink, launched in March 2025, grew out of seven years of self-directed cloud-native study and volunteer community organizing in Prague and Toronto.
 
-One of fewer than 250 Docker Captains worldwide. CNCF Ambassador. 8 vendor-recognized community titles across Docker, CNCF, AWS, IBM, Platform Engineering, Cypress, GitKraken, and Notion — earned through contribution, not credentials.
+One of fewer than 250 Docker Captains worldwide. CNCF Ambassador. 9 vendor-recognized community titles across Docker, CNCF, AWS, IBM, Platform Engineering, Cypress, GitKraken, Notion, and Coder — earned through contribution, not credentials.
 
 Founder of DevOps.Pink — signal over noise in cloud-native & AI. 65K+ subscribers · 560K+ lifetime views · 160+ videos. Walkthroughs and demos on new Docker features as they ship, from Docker MCP (June 2025) to Docker Sandbox Kits (November 2026).
 
@@ -116,7 +116,7 @@ Editorial voice built on opinion pieces, architectural post-mortems, and counter
 
 ### Community Titles
 
-*8 active vendor-recognized programs*
+*9 active vendor-recognized programs*
 
 | Organization | Title | Domain |
 | :--- | :--- | :--- |
@@ -128,6 +128,7 @@ Editorial voice built on opinion pieces, architectural post-mortems, and counter
 | [**Cypress**](https://www.cypress.io/ambassadors#ambassadors-profiles) | Ambassador | Test automation, AI agents in testing |
 | [**GitKraken**](https://www.gitkraken.com/meet-the-gitkraken-ambassadors) | Ambassador | Git workflows, version control |
 | **Notion** | Ambassador | Engineering knowledge management |
+| **Coder** | Champion | Cloud development environments |
 
 ---
 
