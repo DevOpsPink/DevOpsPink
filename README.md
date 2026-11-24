@@ -127,8 +127,8 @@ Editorial voice built on opinion pieces, architectural post-mortems, and counter
 | [**Platform Engineering**](https://platformengineering.org/ambassador-program) | Ambassador | Internal Developer Platforms |
 | [**Cypress**](https://www.cypress.io/ambassadors#ambassadors-profiles) | Ambassador | Test automation, AI agents in testing |
 | [**GitKraken**](https://www.gitkraken.com/meet-the-gitkraken-ambassadors) | Ambassador | Git workflows, version control |
-| **Notion** | Ambassador | Engineering knowledge management |
-| **Coder** | Champion | Cloud development environments |
+| [**Notion**](https://www.notion.so/notion/Notion-Ambassador-Program-45448f9b8e704c7bab254bd505c4717c) | Ambassador | Engineering knowledge management |
+| [**Coder**](https://coder.com/coder-champions) | Champion | Cloud development environments |
 
 ---
 
