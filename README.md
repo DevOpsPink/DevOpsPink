@@ -32,7 +32,7 @@ Founder of DevOps.Pink: Signal over noise in cloud-native & AI. 65K+ subscribers
 
 </div>
 
-Docker republished two of my shorts on its official YouTube channel. GitKraken featured me for International Women's Month (March 2026). Cypress interviewed me for its Ambassador Spotlight (July 2026). The AWS Community Builders Spotlight made my video on the seven deadly sins of AI agents one of its two picks of the week (November 2026). My Docker Captain profile: [docker.com/contributors/tatiana-mikhaleva](https://www.docker.com/contributors/tatiana-mikhaleva/).
+Docker republished two of my shorts on its official YouTube channel. GitKraken featured me for International Women's Month (March 2026). Cypress interviewed me for its Ambassador Spotlight (July 2026). The AWS Community Builders Spotlight made my video on the seven deadly sins of AI agents one of its two picks of the week (November 2026). CNCF shared [my video breakdown](https://www.youtube.com/watch?v=ZIByB2RpLrs) of the Q3 2026 State of Cloud Native Development report on [its official LinkedIn page](https://www.linkedin.com/posts/cloud-native-computing-foundation_kubernetes-cloudnative-platformengineering-activity-7531107667663179777-Kb5d) (November 2026). My Docker Captain profile: [docker.com/contributors/tatiana-mikhaleva](https://www.docker.com/contributors/tatiana-mikhaleva/).
 
 ---
 
