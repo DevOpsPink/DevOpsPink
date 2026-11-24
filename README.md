@@ -14,9 +14,9 @@ Docker Captain · CNCF Ambassador · AWS Community Builder · IBM Champion
 
 Journalist by training, Developer Advocate by practice. Independent Developer Advocate since July 2023. DevOps.Pink, launched in March 2025, grew out of seven years of self-directed cloud-native study and volunteer community organizing in Prague and Toronto.
 
-One of fewer than 250 Docker Captains worldwide. CNCF Ambassador. 9 vendor-recognized community titles across Docker, CNCF, AWS, IBM, Platform Engineering, Cypress, GitKraken, Notion, and Coder — earned through contribution, not credentials.
+One of fewer than 250 Docker Captains worldwide. CNCF Ambassador. 9 vendor-recognized community titles across Docker, CNCF, AWS, IBM, Platform Engineering, Cypress, GitKraken, Notion, and Coder, earned through contribution, not credentials.
 
-Founder of DevOps.Pink — signal over noise in cloud-native & AI. 65K+ subscribers · 560K+ lifetime views · 160+ videos. Walkthroughs and demos on new Docker features as they ship, from Docker MCP (June 2025) to Docker Sandbox Kits (November 2026).
+Founder of DevOps.Pink: Signal over noise in cloud-native & AI. 65K+ subscribers · 560K+ lifetime views · 160+ videos. Walkthroughs and demos on new Docker features as they ship, from Docker MCP (June 2025) to Docker Sandbox Kits (November 2026).
 
 🛠️ **Featured project:** [Oxy](https://github.com/heyvaldemar/oxy-llm-gateway), an open-source, self-hosted LLM gateway that Vladimir Mikhalev and I co-author and co-maintain: per-project budgets, DLP, a kill switch and an audit row for every request made with a valid key in front of OpenAI, Anthropic, Gemini and local models. My part is the developer experience; in [v1.0.5](https://github.com/heyvaldemar/oxy-llm-gateway/releases/tag/v1.0.5) I authored the dashboard and deployment changes (#32–#35).
 
@@ -40,14 +40,14 @@ Docker republished two of my shorts on its official YouTube channel. GitKraken f
 
 *Selected publications, editorial bylines, and amplified releases*
 
-- **Platform Engineering:** [The Empathy Gap: Why Your Platform Needs UX, Not Just APIs](https://platformengineering.org/blog/the-empathy-gap-why-your-platform-needs-ux-not-just-apis) — authored byline (March 2026) that proposes a "joy" metric: an NPS-style score for Internal Developer Platform experience
-- **AWS Community Builders Spotlight:** [November 9th edition](https://builder.aws.com/content/3MIOjZTPMyTz3E41TD7OxdnQQlL/aws-community-builders-spotlight-november-9th-edition) — one of the two "AWSome Content of the week" picks, for my video [7 Deadly Sins of AI Agents](https://www.youtube.com/watch?v=8Q8MznholaA), a walk through the AWS Well-Architected Agentic AI Lens (November 2026)
-- **Featured by Cypress:** [Cypress Ambassador Spotlight](https://www.cypress.io/blog/cypress-ambassador-spotlight-tatiana-mikhaleva) — official ambassador interview (July 2026) on bridging Dev and QA, wiring Cypress into Docker and GitHub Actions pipelines, and mentoring underrepresented groups in tech
-- **GitKraken Editorial:** [Two Developers, Two Continents, One Philosophy](https://www.gitkraken.com/blog/two-developers-two-continents-one-philosophy-build-systems-that-work-for-you) — International Women's Month feature profile spotlighting DevOps.Pink and the cross-border editorial workflow behind it
-- **Docker Official Channels:** [From Chaos to Calm: Docker Compose Saved My Dev Environment](https://www.youtube.com/shorts/G3n3W_SB4fY) — DevOps.Pink short republished on Docker's official YouTube channel
-- **Docker Official Channels:** [My Dockerfile Was a Mess Until This](https://youtube.com/shorts/XdS8yRVDFOA) — multi-stage build patterns, republished on Docker's official YouTube channel
+- **Platform Engineering:** [The Empathy Gap: Why Your Platform Needs UX, Not Just APIs](https://platformengineering.org/blog/the-empathy-gap-why-your-platform-needs-ux-not-just-apis), authored byline (March 2026) that proposes a "joy" metric: an NPS-style score for Internal Developer Platform experience
+- **AWS Community Builders Spotlight:** [November 9th edition](https://builder.aws.com/content/3MIOjZTPMyTz3E41TD7OxdnQQlL/aws-community-builders-spotlight-november-9th-edition), one of the two "AWSome Content of the week" picks, for my video [7 Deadly Sins of AI Agents](https://www.youtube.com/watch?v=8Q8MznholaA), a walk through the AWS Well-Architected Agentic AI Lens (November 2026)
+- **Featured by Cypress:** [Cypress Ambassador Spotlight](https://www.cypress.io/blog/cypress-ambassador-spotlight-tatiana-mikhaleva), official ambassador interview (July 2026) on bridging Dev and QA, wiring Cypress into Docker and GitHub Actions pipelines, and mentoring underrepresented groups in tech
+- **GitKraken Editorial:** [Two Developers, Two Continents, One Philosophy](https://www.gitkraken.com/blog/two-developers-two-continents-one-philosophy-build-systems-that-work-for-you), International Women's Month feature profile spotlighting DevOps.Pink and the cross-border editorial workflow behind it
+- **Docker Official Channels:** [From Chaos to Calm: Docker Compose Saved My Dev Environment](https://www.youtube.com/shorts/G3n3W_SB4fY), DevOps.Pink short republished on Docker's official YouTube channel
+- **Docker Official Channels:** [My Dockerfile Was a Mess Until This](https://youtube.com/shorts/XdS8yRVDFOA), multi-stage build patterns, republished on Docker's official YouTube channel
 - **Series:** Four-part series [Securing AI Agents](https://devops.pink/series/securing-ai-agents/) (May–September 2026): policy ceilings with Vault and Sentinel, IBM's six-phase framework, vendor-shipped agent skills, and audit logs
-- **Beta Programs:** Docker Early-Access partner across MCP Toolkit, Model Runner, and Sandboxes — friction logs shared with Docker product teams
+- **Beta Programs:** Docker Early-Access partner across MCP Toolkit, Model Runner, and Sandboxes; friction logs shared with Docker product teams
 
 ---
 
@@ -78,9 +78,9 @@ Docker republished two of my shorts on its official YouTube channel. GitKraken f
 
 Paid independent practice since July 2023; DevOps.Pink brand since March 2025. From June 2016 to June 2023: self-directed hands-on study and volunteer community teaching in Prague and Toronto, the work DevOps.Pink grew out of.
 
-Multi-year platform engineering advisory for a European bank across Kubernetes, CI/CD, Terraform, Vault, and private cloud — release-critical pipeline exposure in a regulated environment with audit-grade change controls.
+Multi-year platform engineering advisory for a European bank across Kubernetes, CI/CD, Terraform, Vault, and private cloud: release-critical pipeline exposure in a regulated environment with audit-grade change controls.
 
-Specialist degree in Journalism (Master's equivalent, Bologna Process) from Murmansk Humanities University — the combination of journalism rigor and hands-on cloud-native practice is what built DevOps.Pink into the editorial format it operates in today.
+Specialist degree in Journalism (Master's equivalent, Bologna Process) from Murmansk Humanities University; the combination of journalism rigor and hands-on cloud-native practice is what built DevOps.Pink into the editorial format it operates in today.
 
 ---
 
@@ -110,7 +110,7 @@ Paid sponsors: Rootly and Plakar. Referral partners: Proton (VPN and Pass), [Exp
 
 Volunteer community teaching in Prague (from 2016) and Toronto: Docker, Kubernetes, Terraform, and agentic-AI meetups, taught bilingually in Czech and English across two developer ecosystems.
 
-Editorial voice built on opinion pieces, architectural post-mortems, and counter-narrative analysis grounded in hands-on work — titles like "A Nightmare on ELB Street," "Is Kubernetes Overkill?", and "Escape the YAML Prison" signal an editorial stance rather than a tutorial feed. Trained as a journalist: every script is written and edited before the camera rolls.
+Editorial voice built on opinion pieces, architectural post-mortems, and counter-narrative analysis grounded in hands-on work: titles like "A Nightmare on ELB Street," "Is Kubernetes Overkill?", and "Escape the YAML Prison" signal an editorial stance rather than a tutorial feed. Trained as a journalist: every script is written and edited before the camera rolls.
 
 ---
 
