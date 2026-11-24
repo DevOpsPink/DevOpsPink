@@ -100,7 +100,7 @@ DevRel typically means covering tools other people built; I also build the tools
 
 50+ live technical presentations across Toronto community meetups and ambassador peer sessions across six vendor brand channels. Hands-on workshops: live coding and labs across Docker, Kubernetes, AWS, DevSecOps and agentic AI, run on Oxy. I maintain its public lab in Oxy's repository: seven modules, from git clone to a refused request ([docs/workshop](https://github.com/heyvaldemar/oxy-llm-gateway/tree/main/docs/workshop)).
 
-Paid sponsors: Rootly and Plakar. Referral partners: Proton (VPN and Pass) and the Linux Foundation, where code **`DEVOPSPINK`** gives **30% off** CKA, CKS, LFCS, and the full certification catalog.
+Paid sponsors: Rootly and Plakar. Referral partners: Proton (VPN and Pass), [ExpertEdge](https://www.expertedge.org/roles/devops-engineer), and the Linux Foundation, where code **`DEVOPSPINK`** gives **30% off** CKA, CKS, LFCS, and the full certification catalog. The same code works on ExpertEdge.
 
 ---
 
