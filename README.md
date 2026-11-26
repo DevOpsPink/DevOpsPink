@@ -18,7 +18,7 @@ I'm one of fewer than 250 Docker Captains worldwide and a CNCF Ambassador, with 
 
 I founded [DevOps.Pink](https://www.youtube.com/@devopspink), a YouTube channel on cloud-native and AI that puts signal over noise. It has more than 65,000 subscribers, 560,000 lifetime views and 160 videos, grown with organic content and YouTube Promote campaigns. When Docker ships something new, I cover it with walkthroughs and demos, from [Docker MCP](https://www.youtube.com/watch?v=YwURFI88sq0) in June 2025 to [Docker Sandbox Kits](https://www.youtube.com/watch?v=H_Pqd4AKm4I) in November 2026.
 
-🛠️ **Featured project:** [Oxy](https://github.com/heyvaldemar/oxy-llm-gateway), an open-source, self-hosted LLM gateway that Vladimir Mikhalev and I co-author and co-maintain: per-project budgets, DLP, a kill switch and an audit row for every request made with a valid key in front of OpenAI, Anthropic, Gemini and local models. My part is the developer experience; in [v1.0.5](https://github.com/heyvaldemar/oxy-llm-gateway/releases/tag/v1.0.5) I authored the dashboard and deployment changes (#32–#35).
+🛠️ **Featured project:** [Oxy](https://github.com/heyvaldemar/oxy-llm-gateway), an open-source, self-hosted LLM gateway that Vladimir Mikhalev and I co-author and co-maintain: per-project budgets, DLP, a kill switch and an audit row for every request made with a valid key in front of OpenAI, Anthropic, Gemini and local models. My part is the developer experience: in [v1.0.5](https://github.com/heyvaldemar/oxy-llm-gateway/releases/tag/v1.0.5) I authored the dashboard and deployment changes (#32–#35), and in [v1.0.6](https://github.com/heyvaldemar/oxy-llm-gateway/releases/tag/v1.0.6) two more (#39, #40).
 
 ---
 
@@ -94,9 +94,11 @@ Specialist degree in Journalism (Master's equivalent, Bologna Process) from Murm
 
 *Oxy · Self-hosted LLM gateway*
 
-With Vladimir Mikhalev I co-author and co-maintain [Oxy](https://github.com/heyvaldemar/oxy-llm-gateway), an open-source, self-hosted LLM gateway that puts per-project budgets, DLP, a kill switch and an audit row for every request made with a valid key in front of OpenAI, Anthropic, Gemini and local models. My part is the developer experience: from `git clone` to a first working key with one `docker compose up`, the dashboard where a project owner sees spend and keys, and the documentation. In [v1.0.5](https://github.com/heyvaldemar/oxy-llm-gateway/releases/tag/v1.0.5) I authored the dashboard and deployment changes (#32–#35), including the engine change that records when each API key was last used.
+With Vladimir Mikhalev I co-author and co-maintain [Oxy](https://github.com/heyvaldemar/oxy-llm-gateway), an open-source, self-hosted LLM gateway. It puts per-project budgets, DLP, a kill switch and an audit row for every request made with a valid key in front of OpenAI, Anthropic, Gemini and local models.
 
-DevRel typically means covering tools other people built; I also build the tools I teach with, starting with Oxy.
+My part is the developer experience: from `git clone` to a first working key with one `docker compose up`, the dashboard where a project owner sees spend and keys, and the documentation. In [v1.0.5](https://github.com/heyvaldemar/oxy-llm-gateway/releases/tag/v1.0.5) I authored the dashboard and deployment changes (#32–#35), including the engine change that records when each API key was last used. In [v1.0.6](https://github.com/heyvaldemar/oxy-llm-gateway/releases/tag/v1.0.6) I made the dashboard's budget alerts card name the Slack, Discord and Zapier webhooks the alerts now reach (#39) and pinned the workshop lab to v1.0.5 (#40).
+
+DevRel typically means covering tools other people built. I also build the tools I teach with, starting with Oxy.
 
 ---
 
