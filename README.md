@@ -16,7 +16,7 @@ Journalist by training, Developer Advocate by practice. Independent Developer Ad
 
 One of fewer than 250 Docker Captains worldwide. CNCF Ambassador. 9 vendor-recognized community titles across Docker, CNCF, AWS, IBM, Platform Engineering, Cypress, GitKraken, Notion, and Coder, earned through contribution, not credentials.
 
-Founder of DevOps.Pink: Signal over noise in cloud-native & AI. 65K+ subscribers · 560K+ lifetime views · 160+ videos. Walkthroughs and demos on new Docker features as they ship, from Docker MCP (June 2025) to Docker Sandbox Kits (November 2026).
+Founder of [DevOps.Pink](https://www.youtube.com/@devopspink): Signal over noise in cloud-native & AI. 65K+ subscribers · 560K+ lifetime views · 160+ videos. Walkthroughs and demos on new Docker features as they ship, from [Docker MCP](https://www.youtube.com/watch?v=YwURFI88sq0) (June 2025) to [Docker Sandbox Kits](https://www.youtube.com/watch?v=H_Pqd4AKm4I) (November 2026).
 
 🛠️ **Featured project:** [Oxy](https://github.com/heyvaldemar/oxy-llm-gateway), an open-source, self-hosted LLM gateway that Vladimir Mikhalev and I co-author and co-maintain: per-project budgets, DLP, a kill switch and an audit row for every request made with a valid key in front of OpenAI, Anthropic, Gemini and local models. My part is the developer experience; in [v1.0.5](https://github.com/heyvaldemar/oxy-llm-gateway/releases/tag/v1.0.5) I authored the dashboard and deployment changes (#32–#35).
 
@@ -32,7 +32,12 @@ Founder of DevOps.Pink: Signal over noise in cloud-native & AI. 65K+ subscribers
 
 </div>
 
-Docker republished two of my shorts on its official YouTube channel. GitKraken featured me for International Women's Month (March 2026). Cypress interviewed me for its Ambassador Spotlight (July 2026). The AWS Community Builders Spotlight made my video on the seven deadly sins of AI agents one of its two picks of the week (November 2026). CNCF shared [my video breakdown](https://www.youtube.com/watch?v=ZIByB2RpLrs) of the Q3 2026 State of Cloud Native Development report on [its official LinkedIn page](https://www.linkedin.com/posts/cloud-native-computing-foundation_kubernetes-cloudnative-platformengineering-activity-7531107667663179777-Kb5d) (November 2026). My Docker Captain profile: [docker.com/contributors/tatiana-mikhaleva](https://www.docker.com/contributors/tatiana-mikhaleva/).
+- Docker republished two of my shorts on its official YouTube channel: [on Docker Compose](https://www.youtube.com/shorts/G3n3W_SB4fY) and [on multi-stage Dockerfiles](https://youtube.com/shorts/XdS8yRVDFOA).
+- GitKraken [featured me](https://www.gitkraken.com/blog/two-developers-two-continents-one-philosophy-build-systems-that-work-for-you) for International Women's Month (March 2026).
+- Cypress [interviewed me](https://www.cypress.io/blog/cypress-ambassador-spotlight-tatiana-mikhaleva) for its Ambassador Spotlight (July 2026).
+- The [AWS Community Builders Spotlight](https://builder.aws.com/content/3MIOjZTPMyTz3E41TD7OxdnQQlL/aws-community-builders-spotlight-november-9th-edition) made my video on the seven deadly sins of AI agents one of its two picks of the week (November 2026).
+- CNCF shared [my video breakdown](https://www.youtube.com/watch?v=ZIByB2RpLrs) of the Q3 2026 State of Cloud Native Development report on [its official LinkedIn page](https://www.linkedin.com/posts/cloud-native-computing-foundation_kubernetes-cloudnative-platformengineering-activity-7531107667663179777-Kb5d) (November 2026).
+- My Docker Captain profile: [docker.com/contributors/tatiana-mikhaleva](https://www.docker.com/contributors/tatiana-mikhaleva/).
 
 ---
 
