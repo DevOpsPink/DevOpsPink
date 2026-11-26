@@ -22,6 +22,24 @@ I founded [DevOps.Pink](https://www.youtube.com/@devopspink), a YouTube channel 
 
 ---
 
+### Community Titles
+
+*9 active vendor-recognized programs*
+
+| Organization | Title | Domain |
+| :--- | :--- | :--- |
+| [**Docker**](https://www.docker.com/contributors/tatiana-mikhaleva/) | Captain | Container architecture, security, developer workflows |
+| [**CNCF**](https://www.cncf.io/people/ambassadors/?p=tatiana-mikhaleva) | Ambassador | Cloud-native ecosystem, Kubernetes, Helm, Prometheus |
+| [**AWS**](https://builder.aws.com/community/@devopspink) | Community Builder | Cloud architecture, EKS, containers |
+| [**IBM**](https://www.credly.com/badges/9ac32634-feaa-4094-aa64-a3a0678d6bb0/) | Champion | Enterprise AI, Cloud, Automation |
+| [**Platform Engineering**](https://platformengineering.org/ambassador-program) | Ambassador | Internal Developer Platforms |
+| [**Cypress**](https://www.cypress.io/ambassadors#ambassadors-profiles) | Ambassador | Test automation, AI agents in testing |
+| [**GitKraken**](https://www.gitkraken.com/meet-the-gitkraken-ambassadors) | Ambassador | Git workflows, version control |
+| [**Notion**](https://www.notion.so/notion/Notion-Ambassador-Program-45448f9b8e704c7bab254bd505c4717c) | Ambassador | Engineering knowledge management |
+| [**Coder**](https://coder.com/coder-champions) | Champion | Cloud development environments |
+
+---
+
 ### Recognition
 
 *Republished by Docker · Featured by GitKraken and Cypress*
@@ -38,6 +56,18 @@ I founded [DevOps.Pink](https://www.youtube.com/@devopspink), a YouTube channel 
 - The [AWS Community Builders Spotlight](https://builder.aws.com/content/3MIOjZTPMyTz3E41TD7OxdnQQlL/aws-community-builders-spotlight-november-9th-edition) made my video on the seven deadly sins of AI agents one of its two picks of the week (November 2026).
 - CNCF shared [my video breakdown](https://www.youtube.com/watch?v=ZIByB2RpLrs) of the Q3 2026 State of Cloud Native Development report on [its official LinkedIn page](https://www.linkedin.com/posts/cloud-native-computing-foundation_kubernetes-cloudnative-platformengineering-activity-7531107667663179777-Kb5d) (November 2026).
 - My Docker Captain profile: [docker.com/contributors/tatiana-mikhaleva](https://www.docker.com/contributors/tatiana-mikhaleva/).
+
+---
+
+### What I Build
+
+*Oxy · Self-hosted LLM gateway*
+
+With Vladimir Mikhalev I co-author and co-maintain [Oxy](https://github.com/heyvaldemar/oxy-llm-gateway), an open-source, self-hosted LLM gateway. It puts per-project budgets, DLP, a kill switch and an audit row for every request made with a valid key in front of OpenAI, Anthropic, Gemini and local models.
+
+My part is the developer experience: from `git clone` to a first working key with one `docker compose up`, the dashboard where a project owner sees spend and keys, and the documentation. In [v1.0.5](https://github.com/heyvaldemar/oxy-llm-gateway/releases/tag/v1.0.5) I authored the dashboard and deployment changes (#32–#35), including the engine change that records when each API key was last used. In [v1.0.6](https://github.com/heyvaldemar/oxy-llm-gateway/releases/tag/v1.0.6) I made the dashboard's budget alerts card name the Slack, Discord and Zapier webhooks the alerts now reach (#39) and pinned the workshop lab to v1.0.5 (#40).
+
+DevRel typically means covering tools other people built. I also build the tools I teach with, starting with Oxy.
 
 ---
 
@@ -78,27 +108,13 @@ I founded [DevOps.Pink](https://www.youtube.com/@devopspink), a YouTube channel 
 
 ---
 
-### Background
+### Developer Advocacy & Community Impact
 
-*Independent practice since July 2023*
+*Editorial voice, community building, and developer experience*
 
-Paid independent practice since July 2023; DevOps.Pink brand since March 2025. From June 2016 to June 2023: self-directed hands-on study and volunteer community teaching in Prague and Toronto, the work DevOps.Pink grew out of.
+Volunteer community teaching in Prague (from 2016) and Toronto: Docker, Kubernetes, Terraform, and agentic-AI meetups, taught bilingually in Czech and English across two developer ecosystems.
 
-Multi-year platform engineering advisory for a European bank across Kubernetes, CI/CD, Terraform, Vault, and private cloud: release-critical pipeline exposure in a regulated environment with audit-grade change controls.
-
-Specialist degree in Journalism (Master's equivalent, Bologna Process) from Murmansk Humanities University; the combination of journalism rigor and hands-on cloud-native practice is what built DevOps.Pink into the editorial format it operates in today.
-
----
-
-### What I Build
-
-*Oxy · Self-hosted LLM gateway*
-
-With Vladimir Mikhalev I co-author and co-maintain [Oxy](https://github.com/heyvaldemar/oxy-llm-gateway), an open-source, self-hosted LLM gateway. It puts per-project budgets, DLP, a kill switch and an audit row for every request made with a valid key in front of OpenAI, Anthropic, Gemini and local models.
-
-My part is the developer experience: from `git clone` to a first working key with one `docker compose up`, the dashboard where a project owner sees spend and keys, and the documentation. In [v1.0.5](https://github.com/heyvaldemar/oxy-llm-gateway/releases/tag/v1.0.5) I authored the dashboard and deployment changes (#32–#35), including the engine change that records when each API key was last used. In [v1.0.6](https://github.com/heyvaldemar/oxy-llm-gateway/releases/tag/v1.0.6) I made the dashboard's budget alerts card name the Slack, Discord and Zapier webhooks the alerts now reach (#39) and pinned the workshop lab to v1.0.5 (#40).
-
-DevRel typically means covering tools other people built. I also build the tools I teach with, starting with Oxy.
+Editorial voice built on opinion pieces, architectural post-mortems, and counter-narrative analysis grounded in hands-on work: titles like "A Nightmare on ELB Street," "Is Kubernetes Overkill?", and "Escape the YAML Prison" signal an editorial stance rather than a tutorial feed. Trained as a journalist: every script is written and edited before the camera rolls.
 
 ---
 
@@ -112,31 +128,15 @@ Paid sponsors: Rootly and Plakar. Referral partners: Proton (VPN and Pass) and t
 
 ---
 
-### Developer Advocacy & Community Impact
+### Background
 
-*Editorial voice, community building, and developer experience*
+*Independent practice since July 2023*
 
-Volunteer community teaching in Prague (from 2016) and Toronto: Docker, Kubernetes, Terraform, and agentic-AI meetups, taught bilingually in Czech and English across two developer ecosystems.
+Paid independent practice since July 2023; DevOps.Pink brand since March 2025. From June 2016 to June 2023: self-directed hands-on study and volunteer community teaching in Prague and Toronto, the work DevOps.Pink grew out of.
 
-Editorial voice built on opinion pieces, architectural post-mortems, and counter-narrative analysis grounded in hands-on work: titles like "A Nightmare on ELB Street," "Is Kubernetes Overkill?", and "Escape the YAML Prison" signal an editorial stance rather than a tutorial feed. Trained as a journalist: every script is written and edited before the camera rolls.
+Multi-year platform engineering advisory for a European bank across Kubernetes, CI/CD, Terraform, Vault, and private cloud: release-critical pipeline exposure in a regulated environment with audit-grade change controls.
 
----
-
-### Community Titles
-
-*9 active vendor-recognized programs*
-
-| Organization | Title | Domain |
-| :--- | :--- | :--- |
-| [**Docker**](https://www.docker.com/contributors/tatiana-mikhaleva/) | Captain | Container architecture, security, developer workflows |
-| [**CNCF**](https://www.cncf.io/people/ambassadors/?p=tatiana-mikhaleva) | Ambassador | Cloud-native ecosystem, Kubernetes, Helm, Prometheus |
-| [**AWS**](https://builder.aws.com/community/@devopspink) | Community Builder | Cloud architecture, EKS, containers |
-| [**IBM**](https://www.credly.com/badges/9ac32634-feaa-4094-aa64-a3a0678d6bb0/) | Champion | Enterprise AI, Cloud, Automation |
-| [**Platform Engineering**](https://platformengineering.org/ambassador-program) | Ambassador | Internal Developer Platforms |
-| [**Cypress**](https://www.cypress.io/ambassadors#ambassadors-profiles) | Ambassador | Test automation, AI agents in testing |
-| [**GitKraken**](https://www.gitkraken.com/meet-the-gitkraken-ambassadors) | Ambassador | Git workflows, version control |
-| [**Notion**](https://www.notion.so/notion/Notion-Ambassador-Program-45448f9b8e704c7bab254bd505c4717c) | Ambassador | Engineering knowledge management |
-| [**Coder**](https://coder.com/coder-champions) | Champion | Cloud development environments |
+Specialist degree in Journalism (Master's equivalent, Bologna Process) from Murmansk Humanities University; the combination of journalism rigor and hands-on cloud-native practice is what built DevOps.Pink into the editorial format it operates in today.
 
 ---
 
