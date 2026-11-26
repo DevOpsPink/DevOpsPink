@@ -12,11 +12,11 @@ Docker Captain · CNCF Ambassador · AWS Community Builder · IBM Champion
 
 ### What I Do
 
-Journalist by training, Developer Advocate by practice. Independent Developer Advocate since July 2023. DevOps.Pink, launched in March 2025, grew out of seven years of self-directed cloud-native study and volunteer community organizing in Prague and Toronto.
+I'm a journalist by training and a Developer Advocate by practice, independent since July 2023. DevOps.Pink, which I launched in March 2025, grew out of seven years of self-directed cloud-native study and volunteer community organizing in Prague and Toronto.
 
-One of fewer than 250 Docker Captains worldwide. CNCF Ambassador. 9 vendor-recognized community titles across Docker, CNCF, AWS, IBM, Platform Engineering, Cypress, GitKraken, Notion, and Coder, earned through contribution, not credentials.
+I'm one of fewer than 250 Docker Captains worldwide and a CNCF Ambassador, with 9 vendor-recognized community titles across Docker, CNCF, AWS, IBM, Platform Engineering, Cypress, GitKraken, Notion, and Coder, earned through contribution, not credentials.
 
-Founder of [DevOps.Pink](https://www.youtube.com/@devopspink): Signal over noise in cloud-native & AI. 65K+ subscribers · 560K+ lifetime views · 160+ videos. Walkthroughs and demos on new Docker features as they ship, from [Docker MCP](https://www.youtube.com/watch?v=YwURFI88sq0) (June 2025) to [Docker Sandbox Kits](https://www.youtube.com/watch?v=H_Pqd4AKm4I) (November 2026).
+I founded [DevOps.Pink](https://www.youtube.com/@devopspink), a YouTube channel on cloud-native and AI that puts signal over noise. It has more than 65,000 subscribers, 560,000 lifetime views and 160 videos, grown with organic content and YouTube Promote campaigns. When Docker ships something new, I cover it with walkthroughs and demos, from [Docker MCP](https://www.youtube.com/watch?v=YwURFI88sq0) in June 2025 to [Docker Sandbox Kits](https://www.youtube.com/watch?v=H_Pqd4AKm4I) in November 2026.
 
 🛠️ **Featured project:** [Oxy](https://github.com/heyvaldemar/oxy-llm-gateway), an open-source, self-hosted LLM gateway that Vladimir Mikhalev and I co-author and co-maintain: per-project budgets, DLP, a kill switch and an audit row for every request made with a valid key in front of OpenAI, Anthropic, Gemini and local models. My part is the developer experience; in [v1.0.5](https://github.com/heyvaldemar/oxy-llm-gateway/releases/tag/v1.0.5) I authored the dashboard and deployment changes (#32–#35).
 
